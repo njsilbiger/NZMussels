@@ -1,1 +1,21 @@
-# NZ Mussels
+# Title: Warming tolerances and predicted distributional shifts differ among species in a diverse intertidal mussel guild
+
+This repository includes data  for the above manuscript
+
+**Authors:** Cascade J. B. Sorte,*, Geneviève Bernatchez, K. Allison S. Mislan, Lauren L. M. Pandori, Nyssa J. Silbiger, Piper D. Wallingford
+ 
+
+**Funding:**  
+ 
+**Journal:**  
+   
+**Link:**  
+
+**Contents:** There are two folders, one R script, and a README.md file.
+
+**processedoutput:** These are the output temperatures based on models created by ASM. See [Allison's github repo](https://github.com/kallisons/NZMusselTemperatures/tree/master/processedoutput) for details for details
+
+
+**SummaryOutput:** Output csv from the Summary code
+  
+**NZSummaryStats2.R:** Script used to calculate number of days each species spent above LT50 by tide height
