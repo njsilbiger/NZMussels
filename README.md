@@ -1,4 +1,4 @@
-# Title: Warming tolerances and predicted distributional shifts differ among species in a diverse intertidal mussel guild
+# Title: Thermal tolerance limits as indicators of current and future intertidal zonation patterns in a diverse mussel guild
 
 This repository includes data  for the above manuscript
 
