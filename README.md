@@ -4,12 +4,9 @@ This repository includes data  for the above manuscript
 
 **Authors:** Cascade J. B. Sorte,*, Geneviève Bernatchez, K. Allison S. Mislan, Lauren L. M. Pandori, Nyssa J. Silbiger, Piper D. Wallingford
  
-
-**Funding:**  
- 
-**Journal:**  
+**Journal:**  Marine Biology
    
-**Link:**  
+**Link:**  https://link.springer.com/article/10.1007/s00227-018-3452-6
 
 **Contents:** There are two folders, one R script, and a README.md file.
 
